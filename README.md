@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedElsifiv
-- 👀 I’m interested in Python And C
-- 🌱 I’m currently learning python and C
+- 👀 I’m interested in Python And C And C++ , HTML , CSS , JAVASCRIPT
+- 🌱 I’m currently learning Python And C And C++ , HTML , CSS , JAVASCRIPT
 - 📫 How to reach me you can contact me here
 - 😄 Pronouns: He
 - ⚡ Qoute : "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing." – Pelé

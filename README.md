@@ -7,7 +7,6 @@
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/0J9KwSekPdLvE9H0Bv/giphy.gif" width="400" alt="Batman GIF"/>
   
   [![LinkedIn](https://img.shields.io/badge/-Ahmed%20Elsifi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsifi-b258a537a/)
   [![GitHub](https://img.shields.io/badge/-AhmedElsifi-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AhmedElsifi)

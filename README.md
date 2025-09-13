@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Ahmed+Mohamed+Soliman+Abd+Elnaby+Elsifi;%F0%9F%A6%87+Front+End+Developer+Intern+%40+Codveda+%F0%9F%A6%87;I+am+the+night.;The+hero+Gotham's+code+deserves..." alt="Typing SVG" />
 </div>
 
+  ![Batman GIF](https://media.giphy.com/media/0J9KwSekPdLvE9H0Bv/giphy.gif)
+
 <div align="center">
   
-![Batman GIF](https://media.giphy.com/media/0J9KwSekPdLvE9H0Bv/giphy.gif)
   
   [![LinkedIn](https://img.shields.io/badge/-Ahmed%20Elsifi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsifi-b258a537a/)
   [![GitHub](https://img.shields.io/badge/-AhmedElsifi-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AhmedElsifi)

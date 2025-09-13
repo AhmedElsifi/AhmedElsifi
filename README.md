@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Batman GIF](https://media.giphy.com/media/l2JhORT5IFnj6ioko/giphy.gif)
+  ![Batman GIF]([https://media.giphy.com/media/l2JhORT5IFnj6ioko/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I5MGJqaHE4OTJqMG4xMDVxb2FzeW4xbjR1ZG9nMXF1cGZxOG5xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0J9KwSekPdLvE9H0Bv/giphy.gif))
   
   [![LinkedIn](https://img.shields.io/badge/-Ahmed%20Elsifi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsifi-b258a537a/)
   [![GitHub](https://img.shields.io/badge/-AhmedElsifi-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AhmedElsifi)
@@ -153,7 +153,7 @@ Just as Batman operates from the shadows with unwavering determination, Ahmed ap
 
 ---
 
-![Batman Ending GIF](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)
+![Batman Ending GIF]([https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif](https://media1.tenor.com/m/s6s583hqPP4AAAAC/the-batman.gif))
 
 ### *"I am vengeance, I am the night, I am... a Front-End Developer!"*
 

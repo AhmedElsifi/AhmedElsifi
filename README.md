@@ -119,8 +119,6 @@ Just as Batman operates from the shadows with unwavering determination, Ahmed ap
 
 ## 🏆 **Mission Achievements**
 
-<div align="center">
-
 ```
 🦇 CURRENT MISSIONS:
 ├── 🔥 Front End Developer Intern @ Codveda Technologies

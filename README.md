@@ -148,7 +148,7 @@ Just as Batman operates from the shadows with unwavering determination, Ahmed ap
 
 [![LinkedIn](https://img.shields.io/badge/🦇%20Professional%20Network-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsifi-b258a537a/)
 <!-- [![Email](https://img.shields.io/badge/🔥%20Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsifi@example.com) -->
-<!-- [![Portfolio](https://img.shields.io/badge/🌟%20Wayne%20Enterprises%20Portal-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) -->
+<!-- [![Portfolio](https://img.shields.io/badge/🌟%20Wayne%20Enterprises%20Portal-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) .-->
 
 ---
 

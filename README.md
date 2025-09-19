@@ -1,7 +1,7 @@
 # 🦇 The Dark Knight of Code 🦇
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Ahmed+Mohamed+Soliman+Abd+Elnaby+Elsifi;%F0%9F%A6%87+Front+End+Developer+Intern+%40+Codveda+%F0%9F%A6%87;I+am+the+night.;The+hero+Gotham's+code+deserves..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Ahmed+Mohamed+Soliman+Abd+Elnaby+Elsifi;%F0%9F%A6%87+Front+End+Developer+Intern+%40+Codveda+%F0%9F%A6%87;I+am+the+Night.;The+hero+Gotham's+code+deserves..." alt="Typing SVG" />
 </div>
 
 
